@@ -5,16 +5,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Burak</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Burak</h1></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
 - 🔭 I’m currently working on **ML/DL, CV, NLP**
-
-- 💬 Ask me about **Python, ML/DL, SQL, MySQL, Flask**
-
 - 📫 Feel free to reach me out **buraktopal03@gmail.com**
 <!--Intro end-->
 
