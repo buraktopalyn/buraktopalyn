@@ -11,7 +11,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **ML/DL, CV, NLP**
+- 🔭 I’m currently working on **DL&CV**
 - 📫 Feel free to reach me out **buraktopal03@gmail.com**
 <!--Intro end-->
 
