@@ -9,7 +9,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **DL&CV**
+- 🔭 I’m currently working on **AI**
 - 📫 Feel free to reach me out **buraktopal03@gmail.com**
 <!--Intro end-->
 
