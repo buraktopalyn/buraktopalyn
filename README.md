@@ -49,20 +49,6 @@
 <!--- stats (end) -->
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,mysql,py,flask,vscode&perline=14" />
-  </a>
-</p>
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -74,7 +60,6 @@
 <!--icons and links-->
 <p align="center">
 <a href="https://www.linkedin.com/in/buraktopaly/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.kaggle.com/buraktopal" target="blank"><img align="center" src="https://nycdsa-blog-files.s3.us-east-2.amazonaws.com/2016/04/kaggle-logo-transparent-300-1024x465.png" alt="linkedin" height="50" width="100" /></a>
 </p>
 
 
