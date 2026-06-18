@@ -1,10 +1,8 @@
 <div align="center">
+  <h2>Burak Topal</h2>
+  <p>Mechatronics Engineer</p>
   <a href="mailto:buraktopal03@gmail.com">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/buraktopaly/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="25" />
   </a>
 </div>
 
