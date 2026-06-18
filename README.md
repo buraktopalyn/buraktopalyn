@@ -1,21 +1,17 @@
-# Hi, I'm Burak 👋
+<div align="center">
+  <a href="mailto:buraktopal03@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/buraktopaly/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>
+</div>
 
-**Mechanical & Mechatronics Engineer | AI & Robotics Developer**
-
-I bridge the gap between traditional engineering and modern machine learning. My work focuses on building intelligent systems, autonomous robotics, and AI orchestration.
-
-### 🚀 About Me
-- 🔭 Currently working on **Generative AI, Local LLMs, and Edge-AI Solutions**
-- 🧠 Deeply interested in **Computer Vision, Autonomous Systems, and Python**
-- 📫 Reach me at: [buraktopal03@gmail.com](mailto:buraktopal03@gmail.com)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/buraktopaly/)
-
----
-
-### 📊 GitHub Stats
+<br><br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buraktopalyn&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" alt="Burak's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buraktopalyn&show_icons=true&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraktopalyn&layout=compact&hide_border=true&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="Top Languages" />
 </div>
 
